@@ -1,0 +1,15 @@
+body {
+	background-color: #A65CFA;
+	color: #DFDBFF;
+	font-family: Dragon Slayer, sans-serif;
+}
+
+h1 {
+	font-size: 36px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 5.5;
+	margin-bottom: 75px;
+}
